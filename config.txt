@@ -1,5 +1,0 @@
-﻿token=NTQxMTYxMTg4Mzc0MDg1NjQy.DzbbUA.bs_EG-9ClKKf7vVhWXfDEKfCPgg
-owner=525434548939653151
-prefix=1
-game=1play 
-stayinchannel=true
